@@ -1,16 +1,29 @@
-## Hi there 👋
+### 👋 Opa!, eu sou o Kotaro
 
-<!--
-**kotaroplays2-art/kotaroplays2-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Amador  
 
-Here are some ideas to get you started:
+🎮 Minecraft | Java | Web  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📖 Desenvolvendo Servidores e Estudando Idiomas
+
+---
+
+## 🚀 Tecnologias
+
+- Java
+- HTML
+- CSS
+- JavaScript
+- Minecraft Plugins
+- YAML
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kotaroplays2-art&show_icons=true&theme=tokyonight)
+
+---
+
+## 🌐 Contato
+
+Discord: kotarorbx
