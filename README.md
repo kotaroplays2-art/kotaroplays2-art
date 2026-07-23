@@ -45,8 +45,6 @@ Sou um desenvolvedor em aprendizado que gosta de criar projetos, principalmente 
 | 🌐 **Web Projects** | Sites e interfaces experimentais |
 | ⚡ **Outros projetos** | Ideias, testes e aprendizados |
 
-> 💡 Dica: fixe (pin) seus 3-4 melhores repositórios na página do seu perfil — eles aparecem automaticamente aqui embaixo dessa tabela para quem visitar.
-
 ---
 
 ### 📊 GitHub Stats
