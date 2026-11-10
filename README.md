@@ -29,7 +29,9 @@ Sou um desenvolvedor em aprendizado que gosta de criar projetos, principalmente 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,rust,css,yaml" />
+<img src="https://skillicons.dev/icons?i=java,rust,css" />
+
+<img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" />
 
 </div>
 
