@@ -1,3 +1,4 @@
+
 <div align="center">
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:001eff,100:000000&height=200&section=header&text=Kotaro&fontSize=70&fontColor=ffffff&animation=fadeIn)
@@ -6,7 +7,7 @@
 
 💻 Desenvolvedor em aprendizado &nbsp;•&nbsp; 🎮 Minecraft Developer &nbsp;•&nbsp; ⚡ Criando projetos
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Minecraft+Developer;Java+Learner;Web+Developer;Building+New+Projects)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Minecraft+Developer;Java+Learner;Rust+Learner;Web+Developer;Building+New+Projects)](https://git.io/typing-svg)
 
 </div>
 
@@ -18,6 +19,7 @@ Sou um desenvolvedor em aprendizado que gosta de criar projetos, principalmente 
 
 - 🎮 Criando servidores e sistemas para Minecraft
 - ☕ Aprendendo Java e desenvolvimento de plugins
+- 🦀 Explorando Rust
 - 🌐 Explorando desenvolvimento Web
 - 🚀 Sempre buscando evoluir minhas habilidades
 
@@ -27,7 +29,7 @@ Sou um desenvolvedor em aprendizado que gosta de criar projetos, principalmente 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,html,css,js" />
+<img src="https://skillicons.dev/icons?i=java,rust,css,yaml" />
 
 </div>
 
